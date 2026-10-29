@@ -8,11 +8,10 @@ It has one button per download. The steps below are for downloading from GitHub 
 
 ## Which one do I want?
 
-| | Rezoin Lite | Rezoin Princeton |
+| | Rezoin Lite | Rezoin |
 |---|---|---|
 | What it does | Suggests coin types for your photos | The same, plus catalogue search and export to spreadsheet and labels |
-| Reference photos | Loaded from OCRE and RPC online when you click | Optional downloads, one per catalogue volume; without them it loads from the web, as Lite does |
-| Download size | Small | Larger |
+| Reference photos | Loaded from OCRE and RPC online when you click | Downloaded by Rezoin itself the first time it opens (about 15 GB); until then, loaded from the web as in Lite |
 
 Each download works on both Mac and Windows, and comes with test coins to try it on.
 
@@ -23,7 +22,7 @@ You do not need a GitHub account.
 1. On this page, find **Releases** in the right-hand column (on a phone, scroll down) and click the newest one.
    Or go straight to [the latest release](https://github.com/Zed-Rez/rezoin/releases/latest).
 2. Scroll down to **Assets**. If the list is folded shut, click **Assets** to open it.
-3. Click **Rezoin-Lite-….zip** or **Rezoin-Princeton-….zip**. The download starts in your browser.
+3. Click **Rezoin-Lite-….zip** or **Rezoin-….zip**. The download starts in your browser.
 4. Ignore the two files called **Source code (zip)** and **Source code (tar.gz)**. GitHub adds them to every release;
    they are not the app.
 
@@ -47,23 +46,21 @@ Do not use the green **Code** button at the top of this page either: it download
 
 Keep the folder together: the app needs the files beside it.
 
-## Reference photos for Rezoin Princeton
+## Reference photos
 
-The reference photos are a separate release, called **Rezoin reference photos**, with one zip per catalogue volume
-(RIC I, RIC IV, RPC II, …). Download only the volumes you need; the [download page](https://rezaramji.com/rezoin/)
-lists them all.
+Rezoin downloads its reference photos by itself, the first time it opens: about 15 GB, one catalogue volume at a time,
+into its own folder. A line in the bottom-right corner shows how far it has got. The photos of each volume appear as
+soon as it arrives; until then Rezoin loads photos from OCRE and RPC online when you click. If you quit, it carries on
+where it stopped the next time it opens.
 
-1. Unzip each one. It makes a folder such as **Rezoin photos RIC IV**.
-2. Move that folder anywhere inside your **Rezoin Princeton** folder.
-3. Open Rezoin. It finds the photos by itself.
-
-For a volume you have not downloaded, Rezoin offers to load a photo from OCRE or RPC online when you click.
+The volumes are also in the **Rezoin reference photos** release, for a computer without a fast connection: unzip each
+and move the folder it makes (such as **Rezoin photos 06 RIC IV**) anywhere inside the **Rezoin** folder.
 
 ## Updates
 
 When a newer version is out, a small red dot appears in the bottom-right corner of the app.
 Hover over it to see what changed; click it to open the download page.
-Download the new version the same way and replace the old folder. Your reference photos can be moved across.
+Download the new version the same way and replace the old folder. Move the **Rezoin photos …** folders across so they are not downloaded again.
 
 ## Terms of use
 
