@@ -11,7 +11,8 @@ It has one button per download. The steps below are for downloading from GitHub 
 | | Rezoin Lite | Rezoin |
 |---|---|---|
 | What it does | Suggests coin types for your photos | The same, plus catalogue search and export to spreadsheet and labels |
-| Reference photos | Loaded from OCRE and RPC online when you click | Downloaded by Rezoin itself the first time it opens (about 15 GB); until then, loaded from the web as in Lite |
+| Reference photos | Loaded from OCRE and RPC online when you click | Downloaded by Rezoin itself the first time it opens (14.7 GB); until then, loaded from the web as in Lite |
+| Download size | 551 MB | 667 MB, then 14.7 GB of reference photos (leave about 17 GB free) |
 
 Each download works on both Mac and Windows, and comes with test coins to try it on.
 
@@ -48,7 +49,7 @@ Keep the folder together: the app needs the files beside it.
 
 ## Reference photos
 
-Rezoin downloads its reference photos by itself, the first time it opens: about 15 GB, one catalogue volume at a time,
+Rezoin downloads its reference photos by itself, the first time it opens: 14.7 GB, one catalogue volume at a time,
 into its own folder. A line in the bottom-right corner shows how far it has got. The photos of each volume appear as
 soon as it arrives; until then Rezoin loads photos from OCRE and RPC online when you click. If you quit, it carries on
 where it stopped the next time it opens.
