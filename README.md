@@ -1,20 +1,22 @@
 # Rezoin
 
-Rezoin suggests Roman Imperial (RIC) and Roman Provincial (RPC) coin types for photographs of ancient coins.
-It is a research preview, for Mac and Windows.
+Rezoin suggests catalogue types for photographs of ancient coins: Roman (RIC, RPC, RRC) and Greek and Hellenistic
+(Price, SC, PCO, AGCO, BIGR, LCO, Corpus Nummorum, IRIS). Version 1.0, for Mac and Windows.
 
 **The easiest way to download it is the download page: [rezaramji.com/rezoin](https://rezaramji.com/rezoin/).**
-It has one button per download. The steps below are for downloading from GitHub directly.
+It has one button per download: each edition, for Mac or for Windows. The steps below are for downloading from GitHub directly.
 
 ## Which one do I want?
 
 | | Rezoin Lite | Rezoin |
 |---|---|---|
 | What it does | Suggests coin types for your photos | The same, plus catalogue search and export to spreadsheet and labels |
-| Reference photos | Loaded from OCRE and RPC online when you click | Downloaded by Rezoin itself the first time it opens (14.7 GB); until then, loaded from the web as in Lite |
-| Download size | 551 MB | 667 MB, then 14.7 GB of reference photos (leave about 17 GB free) |
+| Reference photos | Loaded from each catalogue's website when you click | The same; a local copy of the RIC and RPC photos (about 15 GB) is optional, in Settings |
+| Download size | about 1.3 GB | about 1.3 GB |
 
-Each download works on both Mac and Windows, and comes with test coins to try it on.
+Each edition has a Mac download and a Windows download, and comes with test coins to try it on.
+The Mac version needs Apple silicon (M1 or later) and macOS 12 or later; the Windows version needs 64-bit Windows 10
+or 11.
 
 ## How to download from GitHub
 
@@ -23,7 +25,8 @@ You do not need a GitHub account.
 1. On this page, find **Releases** in the right-hand column (on a phone, scroll down) and click the newest one.
    Or go straight to [the latest release](https://github.com/Zed-Rez/rezoin/releases/latest).
 2. Scroll down to **Assets**. If the list is folded shut, click **Assets** to open it.
-3. Click **Rezoin-Lite-….zip** or **Rezoin-….zip**. The download starts in your browser.
+3. Click the one you want: **Rezoin-Lite-…-Mac.zip**, **Rezoin-Lite-…-Windows.zip**, **Rezoin-…-Mac.zip** or
+   **Rezoin-…-Windows.zip**. The download starts in your browser.
 4. Ignore the two files called **Source code (zip)** and **Source code (tar.gz)**. GitHub adds them to every release;
    they are not the app.
 
@@ -34,8 +37,8 @@ Do not use the green **Code** button at the top of this page either: it download
 **Mac**
 1. Double-click the downloaded zip. It makes a folder.
 2. Open the folder and double-click the app.
-3. If macOS says it cannot open the app, Control-click the app and choose **Open**, then **Open** again.
-   On newer versions of macOS, go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway**.
+3. The first time, macOS says it "could not verify" the app. Click **Done**, then open
+   **System Settings → Privacy & Security**, scroll down, click **Open Anyway** next to Rezoin, and confirm.
    You only do this once.
 
 **Windows**
@@ -49,10 +52,10 @@ Keep the folder together: the app needs the files beside it.
 
 ## Reference photos
 
-Rezoin downloads its reference photos by itself, the first time it opens: 14.7 GB, one catalogue volume at a time,
-into its own folder. A line in the bottom-right corner shows how far it has got. The photos of each volume appear as
-soon as it arrives; until then Rezoin loads photos from OCRE and RPC online when you click. If you quit, it carries on
-where it stopped the next time it opens.
+When a type has no reference photo on your computer, Rezoin shows a button that loads one from the catalogue's
+website. To keep a local copy instead, tick **Keep a local copy of the reference photos** in Settings: Rezoin then
+downloads the RIC and RPC photos (about 15 GB), one catalogue volume at a time, into its own folder. A line in the
+bottom-right corner shows how far it has got. If you quit, it carries on where it stopped the next time it opens.
 
 The volumes are also in the **Rezoin reference photos** release, for a computer without a fast connection: unzip each
 and move the folder it makes (such as **Rezoin photos 06 RIC IV**) anywhere inside the **Rezoin** folder.
@@ -72,7 +75,7 @@ Download the new version the same way and replace the old folder. Move the **Rez
 
 Until the accompanying paper is published, cite Rezoin as:
 
-> Ramji, Reza (ORCID 0009-0007-1469-0670). 2026. Rezoin: identification of Roman Imperial and Provincial coin types
-> from photographs (research preview). Unpublished software, Princeton University. reza.ramji@gmail.com.
+> Ramji, Reza (ORCID 0009-0007-1469-0670). 2026. Rezoin: identification of ancient coin types from photographs
+> (version 1.0). Unpublished software, Princeton University. reza.ramji@gmail.com.
 
 For corrections, please contact [Rezoin@rezaramji.com](mailto:Rezoin@rezaramji.com).
