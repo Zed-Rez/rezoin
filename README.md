@@ -12,7 +12,7 @@ It has one button per download: each edition, for Mac or for Windows. The steps 
 |---|---|---|
 | What it does | Suggests coin types for your photos | The same, plus catalogue search and export to spreadsheet and labels |
 | Reference photos | Loaded from each catalogue's website when you click | The same; a local copy of the RIC and RPC photos (about 15 GB) is optional, in Settings |
-| Download size | about 1.3 GB | about 1.3 GB |
+| Download size | about 1.3 GB | about 1.4 GB |
 
 Each edition has a Mac download and a Windows download, and comes with test coins to try it on.
 The Mac version needs Apple silicon (M1 or later) and macOS 12 or later; the Windows version needs 64-bit Windows 10
