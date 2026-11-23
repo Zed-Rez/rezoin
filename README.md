@@ -14,7 +14,7 @@ Reference photos load from each catalogue's website when you click; a local copy
 try it on. The Mac version needs Apple silicon (M1 or later) and macOS 12 or later; the Windows version needs 64-bit
 Windows 10 or 11.
 
-(Rezoin Lite, a smaller edition without search, export or Settings, is no longer offered; earlier releases still have it.)
+(Rezoin Lite, an edition without export, Settings or a local photo copy, is no longer offered; earlier releases still have it.)
 
 ## How to download from GitHub
 
