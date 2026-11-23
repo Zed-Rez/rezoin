@@ -4,19 +4,17 @@ Rezoin suggests catalogue types for photographs of ancient coins: Roman (RIC, RP
 (Price, SC, PCO, AGCO, BIGR, LCO, Corpus Nummorum, IRIS). Version 1.0, for Mac and Windows.
 
 **The easiest way to download it is the download page: [rezaramji.com/rezoin](https://rezaramji.com/rezoin/).**
-It has one button per download: each edition, for Mac or for Windows. The steps below are for downloading from GitHub directly.
+It has one button for Mac and one for Windows. The steps below are for downloading from GitHub directly.
 
-## Which one do I want?
+## What you get
 
-| | Rezoin Lite | Rezoin |
-|---|---|---|
-| What it does | Suggests coin types for your photos | The same, plus catalogue search and export to spreadsheet and labels |
-| Reference photos | Loaded from each catalogue's website when you click | The same; a local copy of the RIC and RPC photos (about 15 GB) is optional, in Settings |
-| Download size | about 1.3 GB | about 1.4 GB |
+Rezoin suggests coin types for your photos, searches the catalogues and exports to spreadsheet and labels.
+Reference photos load from each catalogue's website when you click; a local copy of the RIC and RPC photos (about
+15 GB) is optional, in Settings. The download is about 1.4 GB, for Mac or for Windows, and comes with test coins to
+try it on. The Mac version needs Apple silicon (M1 or later) and macOS 12 or later; the Windows version needs 64-bit
+Windows 10 or 11.
 
-Each edition has a Mac download and a Windows download, and comes with test coins to try it on.
-The Mac version needs Apple silicon (M1 or later) and macOS 12 or later; the Windows version needs 64-bit Windows 10
-or 11.
+(Rezoin Lite, a smaller edition without search, export or Settings, is no longer offered; earlier releases still have it.)
 
 ## How to download from GitHub
 
@@ -25,8 +23,7 @@ You do not need a GitHub account.
 1. On this page, find **Releases** in the right-hand column (on a phone, scroll down) and click the newest one.
    Or go straight to [the latest release](https://github.com/Zed-Rez/rezoin/releases/latest).
 2. Scroll down to **Assets**. If the list is folded shut, click **Assets** to open it.
-3. Click the one you want: **Rezoin-Lite-…-Mac.zip**, **Rezoin-Lite-…-Windows.zip**, **Rezoin-…-Mac.zip** or
-   **Rezoin-…-Windows.zip**. The download starts in your browser.
+3. Click **Rezoin-…-Mac.zip** or **Rezoin-…-Windows.zip**. The download starts in your browser.
 4. Ignore the two files called **Source code (zip)** and **Source code (tar.gz)**. GitHub adds them to every release;
    they are not the app.
 
